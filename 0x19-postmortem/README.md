@@ -1,12 +1,3 @@
-<style>
-h1 {
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
-    background-color: #96aa4d; 
-}
-
-</style>
-
 <h1> Server requests failure report </h1>
 
 It was reported by our clients that the platform was returning 500 Error on all requests made on the platform routes, all the services were down. 70% of the users were affected. The root cause was the failure of our master server.
